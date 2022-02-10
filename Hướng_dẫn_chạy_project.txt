@@ -1,0 +1,6 @@
+Step 1: Extract the project
+Step 2: Running cmd in the root with the command "npm run dev"
+Step 3: Wait for localhost:3000 response (the server will start on port 5000) and show up on the browser (Google Chrome)
+
+*Note:
+- The uri of MongoDB in cloud is in the "config/default.json".
